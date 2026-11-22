@@ -1,0 +1,20 @@
+## Build output
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## .NET
+*.dll
+*.exe
+*.pdb
+
+## Logs and temporary files
+*.log
+*.tmp
+*.cache
